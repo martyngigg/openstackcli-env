@@ -1,0 +1,7 @@
+name: openstack
+
+dependencies:
+  - python=3.11
+  - pip=23.3
+  - pip:
+    - -r ./requirements.txt
